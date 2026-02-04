@@ -1,6 +1,6 @@
- ---
- lesson-example: "https://carpentries.github.io/lesson-example/"
- ---
+---
+lesson-example: "https://carpentries.github.io/lesson-example/"
+---
              
  {% include navigation.html %}
              
