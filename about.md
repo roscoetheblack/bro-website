@@ -21,4 +21,3 @@ You can cite the project as:
 
 ## Contact us
 
-{% include footer.html %}
