@@ -4,16 +4,13 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 
 ## Description
 {{ site.description }}
-## Navigation
 
-{% include navigation.html %}
 # Navigation
-
 {% include navigation.html %}
  
 ## Building Websites in GitHub
 
-This is an example website built while learning how to use GitHub Pages ad Jeykyll
+This is an example website built while learning how to use GitHub Pages and Jeykyll
  
 More details about the project are available from the [About page](about).
 
