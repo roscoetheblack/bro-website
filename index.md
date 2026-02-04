@@ -1,6 +1,6 @@
 ---
-lesson-example: "https://carpentries.github.io/lesson-example/"
 layout: default
+title: Building Websites with GitHub Pages
 ---
 
 ## Description
