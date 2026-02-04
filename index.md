@@ -3,8 +3,6 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 layout: default
 ---
 
-## Building Websites in GitHub
-
 ## Description
 {{ site.description }}
  
