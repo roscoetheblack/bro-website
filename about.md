@@ -11,7 +11,7 @@ title: About
 
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
 
- ## Team
+## Team
 
  The following people are members of our research team:
  {% for team_member in site.team_members %}
