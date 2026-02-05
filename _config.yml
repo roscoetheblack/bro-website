@@ -2,12 +2,19 @@ description: "This research project teaches **bros** how to make websites using 
 email: "bro@email.org"
 twitter: "https://twitter.com/thewebbros"
 team_members:
-  - name: "Sarah Becker"
+  -
+    name: "Tom Cat"
     role: "project lead"
-    start_date: "2016-02-01"
-  - name: "Jane Smith"
+    start_date: "2020-10-01"
+  -
+    name: "Jane Smith"
     role: maintainer
     start_date: "2018-03-15"
-  - name: "Albert Hamilton"
+  -
+    name: "Albert Hamilton"
     role: editor
     start_date: "2017-12-01"
+  -
+    name: "Alice Dauncey"
+    role: "developer"
+    start_date: "2020-09-15"
