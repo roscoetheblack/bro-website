@@ -21,7 +21,5 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 - {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }}) by {{post.author}}
 {% endfor %}
 
-{% include post_list.html %}
-
 ## Contact us
 
